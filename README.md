@@ -1,4 +1,6 @@
 # Supermarket-sales-dashboard
+![image alt](https://github.com/somay10/Supermarket-sales-dashboard/blob/main/Sles%20Dashboard.png?raw=true)
+# Overview
 This project is an interactive Excel dashboard that analyzes supermarket sales. It highlights key metrics like total sales, top products, and category-wise performance to help understand business trends.
 # Goals 
 Track overall sales performance
