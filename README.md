@@ -1,4 +1,3 @@
-# Supermarket-sales-dashboard
 ## Supermarket Sales Dashboard (Excel)
 
 This repository contains a comprehensive **Supermarket Sales Dashboard** built in Microsoft Excel. It provides high-level KPIs and granular visualizations for sales performance, profitability, and customer behavior for the year 2023.
